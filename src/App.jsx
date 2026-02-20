@@ -170,8 +170,8 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">Forever there for you — Ayush</h2>
-          <p className="final-subtitle">Accha Ayush ✨</p>
+          <h2 className="final-message">Forever there for you</h2>
+          <p className="final-subtitle">-Ayush ✨</p>
         </section>
       </div>
 
