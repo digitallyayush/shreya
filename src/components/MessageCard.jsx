@@ -14,7 +14,7 @@ function MessageCard({ isActive }) {
   const messageContentRef = useRef(null);
   const recipientName = "Shreya";
   const senderName = "Ayush";
-  const message = `Meri Pyaari Amulu,
+  const message = `Priya Amulu Ji,
 
 Happy Birthday to the bestest friend of my life 💕
 From being just batchmates to becoming such close friends, you’ve become such an important part of my life.
