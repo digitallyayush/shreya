@@ -105,7 +105,7 @@ function App() {
               </>
             )}
           </h1>
-          <p>Forever there for you</p>
+          <p>హగ్స్, స్మైల్స్… మా గాసిప్ పార్ట్నర్‌కి</p>
         </section>
 
         <Countdown
