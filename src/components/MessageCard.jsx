@@ -12,18 +12,21 @@ function MessageCard({ isActive }) {
   const curtainRightRef = useRef(null);
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
-  const recipientName = "Aashu";
+  const recipientName = "Shreya";
   const senderName = "Ayush";
-  const message = `Meri Pyaari Aashu,
+  const message = `Meri Pyaari Amulu,
 
-Happy Birthday to the most beautiful part of my life 💕
-Thank you for filling my days with laughter, love, and endless happiness.
-You deserve all the joy in the world today and forever.
-I’m so lucky to have you. Love you loads 😘🎉
+Happy Birthday to the bestest friend of my life 💕
+From being just batchmates to becoming such close friends, you’ve become such an important part of my life.
+All those long calls, endless gossip, random talks, and the way we share every little thing with each other mean so much to me.
+Thank you for being the person I can be my real self with, for always listening, understanding, and making even the most normal days special.
+I’m so grateful that training brought you into my life. I hope this year gives you all the happiness, success, love, and peace you truly deserve.
 
-Happy Birthday! 🎉
+Stay the same amazing, caring, and crazy person that you are. And don’t worry, we still have a lifetime of gossip and long calls left 😌
 
-—Aapka Bubu`;
+Once again, Happy birthday, bestie! 🎉💖
+
+—A se Accha Ayush`;
 
   // Handle page transitions
   useEffect(() => {
