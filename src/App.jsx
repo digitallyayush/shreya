@@ -96,16 +96,16 @@ function App() {
           <h1 id="heroTitle">
             {birthdayReached ? (
               <>
-                Happy Birthday <span className="highlight">Aashu Ji</span> 🎂
+                Happy Birthday <span className="highlight">Amulu</span> 🎂
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">Aashu's</span>{" "}
+                Counting down to <span className="highlight">Shreya's</span>{" "}
                 special day 🎂
               </>
             )}
           </h1>
-          <p>Lots of love mera baccha 💗</p>
+          <p>Forever there for you</p>
         </section>
 
         <Countdown
@@ -170,8 +170,8 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">💖 Forever Yours — Ayush 💖</h2>
-          <p className="final-subtitle">Aapka pucchu ✨</p>
+          <h2 className="final-message">Forever there for you — Ayush</h2>
+          <p className="final-subtitle">Accha Ayush ✨</p>
         </section>
       </div>
 
